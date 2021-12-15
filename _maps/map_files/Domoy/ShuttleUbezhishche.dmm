@@ -706,7 +706,7 @@
 "Rf" = (/obj/machinery/airalarm/directional/west,/obj/structure/disposalpipe/segment{dir = 4},/turf/open/floor/iron/dark/blue/side{dir = 8},/area/medical/medbay)
 "Ri" = (/obj/structure/table/reinforced,/obj/item/hemostat,/obj/item/retractor,/turf/open/floor/iron/dark/blue/side,/area/medical/medbay)
 "Ro" = (/obj/machinery/navbeacon/wayfinding,/turf/open/floor/iron/dark,/area/maintenance/starboard/fore)
-"Rp" = (/obj/docking_port/stationary{dir = 4; height = 7; id = "supply_home"; name = "Cargo Bay"; width = 12},/turf/open/space/basic,/area/space)
+"Rp" = (/obj/docking_port/stationary{dir = 4; dwidth = 5; height = 7; id = "supply_home"; name = "Cargo Bay"; width = 12},/turf/open/space/basic,/area/space)
 "Rt" = (/obj/machinery/light/dim/directional/east,/turf/open/floor/iron/dark,/area/maintenance/starboard/fore)
 "Ru" = (/obj/machinery/light/directional/south,/obj/structure/disposalpipe/segment{dir = 4},/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,/turf/open/floor/iron/dark,/area/maintenance/port/aft)
 "Ry" = (/obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2{dir = 4},/obj/machinery/light/dim/directional/east,/turf/open/floor/iron/dark,/area/maintenance/port/aft)
